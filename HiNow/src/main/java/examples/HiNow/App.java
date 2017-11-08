@@ -5,7 +5,6 @@ import java.util.GregorianCalendar;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
