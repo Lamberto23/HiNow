@@ -1,6 +1,5 @@
-/.metadata/
-/HiNow/target
+/target
 /RemoteSystemsTempFiles
-/HiNow/.project
-/HiNow/.classpath
-/HiNow/.settings
+/.project
+/.classpath
+/.settings
