@@ -19,7 +19,7 @@ public class App
         minutos  = calendario.get(Calendar.MINUTE);
         segundos = calendario.get(Calendar.SECOND);
         
-        ahora = hora + ":" + minutos;
+        ahora = hora + ":" + minutos + ":" + segundos + " (hh:mm:ss)";
         return ahora;
 	}
 
